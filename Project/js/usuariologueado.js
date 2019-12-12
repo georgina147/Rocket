@@ -1,7 +1,7 @@
 function cerrar(){
     firebase.auth().signOut().then(function() {
      alert("saliendo..");
-     location.href = "../Project/index.html";
+     location.href = "../index.html";
     }).catch(function(error) {
       // An error happened.
       console.log("Ha ocurrido un error", error);
