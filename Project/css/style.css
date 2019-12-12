@@ -1,0 +1,20 @@
+﻿*
+body {
+  display: flexbox;
+  margin: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px ;
+  background-color: #f5f5f5;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+};
+
+.espacio {margin: 20px;
+  padding-bottom: 20px;
+
+}
+
+
+h1 { color: green;
+
+}
